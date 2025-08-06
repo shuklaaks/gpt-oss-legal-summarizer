@@ -42,7 +42,7 @@ python scripts/gpt_oss_legal_summary.py
 Click below to open a GPU‑enabled Colab notebook with the same pipeline:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/gpt-oss-legal-summarizer/blob/main/notebooks/gpt_oss_legal_summary.ipynb)
+https://colab.research.google.com/github/shuklaaks/gpt-oss-legal-summarizer/blob/main/notebooks/gpt_oss_legal_summary.ipynb)
 
 ---
 
