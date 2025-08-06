@@ -1,1 +1,8 @@
+Section 14: Data Protection Obligations
+The Vendor shall comply with all applicable data-protection laws, including GDPR and CCPA.
+The Vendor must notify the Client within 72 hours of any data breach.
+The Vendor shall not transfer Client Data outside approved jurisdictions without prior written consent.
+
+Section 18: Termination Rights
+The Client may terminate this Agreement with 30 days' written notice if the Vendor breaches compliance obligations.
 
