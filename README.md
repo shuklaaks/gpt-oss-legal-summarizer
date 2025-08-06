@@ -23,7 +23,7 @@ This repository provides a ready-to-use pipeline for running OpenAI's GPT‑OSS 
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/gpt-oss-legal-summarizer.git
+git clone https://github.com/shuklaaks/gpt-oss-legal-summarizer.git
 cd gpt-oss-legal-summarizer
 
 # Install dependencies
